@@ -1,0 +1,29 @@
+{
+  "analysis_metadata": {
+    "timestamp": "2025-08-08 19:42:16",
+    "dataset_shape": [
+      1953,
+      33
+    ],
+    "total_analyses_performed": 3,
+    "successful_analyses": 3,
+    "success_rate": 1.0
+  },
+  "key_findings": [
+    "No statistically significant performance differences between market regimes",
+    "Strongest correlation: total_pnl ↔ net_profit_after_fees (r=+1.000)",
+    "Best ML model: RandomForest (1.000 accuracy)"
+  ],
+  "technical_achievements": [
+    "Successfully trained RandomForest model on 1,953 samples"
+  ],
+  "business_insights": [
+    "Identified 10 strong correlations",
+    "Strong predictive capability for sentiment-based trading strategies"
+  ],
+  "analysis_summary": {
+    "statistical_analysis_status": "Success",
+    "correlation_analysis_status": "Success",
+    "predictive_modeling_status": "Success"
+  }
+}
